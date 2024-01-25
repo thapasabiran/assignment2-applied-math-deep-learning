@@ -49,6 +49,4 @@ In this exercise, you will practice computational derivation and matrix multipli
 
 Good luck!
 
-![Alt text](assignment2-local.png)
-
-![Alt text](assignment3-local.png)
+![screnshot](images/assignment2-local.png)
